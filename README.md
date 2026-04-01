@@ -1,4 +1,4 @@
-#### Currently, Thai (and also almost any) Version of Hack club site is down! Visit this [pull request](https://github.com/hackclub/global/issues/77) for more infomation.
+#### Currently, The Site have been refactor and this copy only keep for legacy purposes only, for any update, go to the [main branch](https://github.com/toonshouin/hackclub-thai/tree/main), Thanks!
 - ToonOeichi (Thai site maintainer)
 ---
 
